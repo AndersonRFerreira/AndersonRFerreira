@@ -1,4 +1,4 @@
-<h1> Seja bem vindo !<h1>
+Seja bem vindo !
 Atualmente estou estudando programação na blue Edtech e sistemas para internet na UAM!
   
 Domino as tecnologias :
