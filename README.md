@@ -3,7 +3,7 @@
 
 
 Seja bem vindo!
-Atualmente estou estudando programação na blue Edtech e sistemas para internet na UAM!
+Atualmente estou estudando programação na Blue Edtech e sistemas para internet na UAM!
   
 Domino as tecnologias :
   
