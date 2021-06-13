@@ -16,10 +16,7 @@ Tecnologias que utilizo / estou me desenvolvendo :
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&layout=compact" alt="Anderson" /></p>
-
-
- 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&theme=blue-green)
 
 
 
