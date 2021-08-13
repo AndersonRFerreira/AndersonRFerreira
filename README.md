@@ -19,7 +19,7 @@ Tecnologias que utilizo / estou me desenvolvendo :
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&theme=blue-green)
 
 <div>
-	<p align="center"> Visitas desde 13/08/2021 </p>
+	<p align="center"> Visitas desde 04/03/2021 </p>
 	<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igorprati/count.svg" /></p>
 </div>
 
