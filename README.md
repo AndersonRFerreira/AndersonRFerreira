@@ -14,6 +14,7 @@ Tecnologias e ferramentas que utilizo e estou me desenvolvendo :
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&theme=blue-green)
 
