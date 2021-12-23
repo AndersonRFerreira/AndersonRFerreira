@@ -3,7 +3,6 @@
 
 
 ### Seja bem vindo!
-Atualmente estou estudando programação na Blue Edtech e sistemas para internet na UAM!
   
 Tecnologias e ferramentas que utilizo :
 
@@ -12,7 +11,6 @@ Tecnologias e ferramentas que utilizo :
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
