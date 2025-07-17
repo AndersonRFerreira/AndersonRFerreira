@@ -13,9 +13,9 @@ Tecnologias e ferramentas que utilizo e outras que estou me desenvolvendo:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRFerreira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRFerreira&show_icons=true&theme=tokyonight)
+
 
 
 
