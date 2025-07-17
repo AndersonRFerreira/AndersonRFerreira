@@ -17,6 +17,9 @@ Tecnologias e ferramentas que utilizo e outras que estou me desenvolvendo:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&theme=blue-green)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight)](https://git.io/streak-stats)
+
+
 <div>
 	<p align="center"> Visitas desde 04/03/2021 </p>
 	<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/igorprati/count.svg" /></p>
