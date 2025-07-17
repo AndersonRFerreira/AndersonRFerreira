@@ -16,8 +16,7 @@ Tecnologias e ferramentas que utilizo e outras que estou me desenvolvendo:
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonRFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&theme=blue-green)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRFerreira&show_icons=true&theme=tokyonight)
 
 
 <div>
