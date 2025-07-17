@@ -15,6 +15,8 @@ Tecnologias e ferramentas que utilizo e outras que estou me desenvolvendo:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonRFerreira&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonRFerreira&layout=compact&theme=tokyonight)
+
 
 
 <div>
